@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Proyectos\\ApiNueva\\wwwroot\\uploads\\casa1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\casa1.jpg"
+    },
+    {
+      "Id": "C:\\Proyectos\\ApiNueva\\wwwroot\\uploads\\casa2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\casa2.jpg"
+    },
+    {
+      "Id": "C:\\Proyectos\\ApiNueva\\wwwroot\\uploads\\casa3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\casa3.jpg"
+    },
+    {
+      "Id": "C:\\Proyectos\\ApiNueva\\wwwroot\\uploads\\casa_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\casa_6.jpg"
+    },
+    {
+      "Id": "C:\\Proyectos\\ApiNueva\\wwwroot\\uploads\\casa_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\casa_7.jpg"
+    },
+    {
+      "Id": "C:\\Proyectos\\ApiNueva\\wwwroot\\uploads\\juan.png",
+      "PackagePath": "staticwebassets\\uploads\\juan.png"
+    },
+    {
+      "Id": "C:\\Proyectos\\ApiNueva\\wwwroot\\uploads\\sonia.png",
+      "PackagePath": "staticwebassets\\uploads\\sonia.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ApiNueva.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ApiNueva.props",
+      "PackagePath": "build\\ApiNueva.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiNueva.props",
+      "PackagePath": "buildMultiTargeting\\ApiNueva.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ApiNueva.props",
+      "PackagePath": "buildTransitive\\ApiNueva.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
