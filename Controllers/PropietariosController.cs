@@ -32,7 +32,7 @@ namespace ApiNueva.Controllers
 			environment = env;
 			
 		}
-
+		//
 		// POST: Propietarios/Login
 		[HttpPost("login")]
 		[AllowAnonymous]
